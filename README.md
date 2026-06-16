@@ -56,9 +56,6 @@ Passionate about building projects, learning new technologies, and growing one c
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-SD&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-SD&theme=tokyonight" />
-</p>
 
 ---
 
