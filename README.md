@@ -19,7 +19,7 @@ Passionate about building projects, learning new technologies, and growing one c
 * 🔭 I'm currently building projects to strengthen my problem-solving skills.
 * 🌱 I'm currently learning advanced technologies and exploring new tools.
 * 📫 How to reach me: **[sanjudineshsm@gmail.com](mailto:sanjudineshsm@gmail.com)**
-* ⚡ Fun fact: I fix one bug and accidentally unlock three new ones. 🐛✨
+  
 
 ---
 
