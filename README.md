@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="Sanjana%20S%20D.png" alt="Banner" />
+</p>
+
+<h1 align="center">
+Hi 👋, I'm Sanjana
+</h1>
+
+<h3 align="center">
+Aspiring Developer | Lifelong Learner
+</h3>
 
 <!--
 **Sanjana-SD/Sanjana-SD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
