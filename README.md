@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Sanjana%20S%20D.png" alt="Banner" />
+  <img src="Sanjana%20S%20D%20(2).png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
